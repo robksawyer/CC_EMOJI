@@ -1,5 +1,9 @@
 # EMOJI
 
+## Dependencies
+
+- Monster Debugger: <https://code.google.com/p/monsterdebugger/>
+
 ## Asset SWCS
 
 There are asset SWCs for different sizes of Emojis. These are helpful to quickly access certain sized Emojis from Flash.

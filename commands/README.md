@@ -35,3 +35,4 @@ You could assign a key-combination under ‘Edit’ > ‘Keyboard shortcuts’ a
 - Flash CS5: JSFL Documentation: <http://help.adobe.com/en_US/flash/cs/extend/flash_cs5_extending.pdf>
 - JSFL to Bulk Rename Classes in a .fla: <http://www.ludicroussoftware.com/blog/2011/06/13/jsfl-to-bulk-rename-classes-in-a-fla/>
 - Handy Flash IDE Tool: <http://blog.stroep.nl/2011/11/name-it-right-jsfl/>
+- JSFL Script to Ensure Actual ActionScript Classes Exist for Symbols: <http://jessewarden.com/2010/12/jsfl-script-to-ensure-actual-actionscript-classes-exist-for-symbols.html>
