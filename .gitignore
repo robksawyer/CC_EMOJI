@@ -9,5 +9,8 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+<<<<<<< HEAD
 
 RECOVER_*.fla
+=======
+>>>>>>> 0250f25a00c46e7ad11b3a081bd69ad77061e9bc
