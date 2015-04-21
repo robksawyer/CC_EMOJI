@@ -1,0 +1,556 @@
+People 1 Emoji Pack
+
+emojis = [
+        {
+          name: "Happy Face",
+          id: 55,
+          bitmap48: new Bitmap( new Emoji_48x48_55() ),
+          bitmap96: new Bitmap( new Emoji_96x96_55() )
+        },
+        {
+          name: "Santa Yellow",
+          id: 509,
+          bitmap48: new Bitmap( new Emoji_48x48_509() ),
+          bitmap96: new Bitmap( new Emoji_96x96_509() )
+        },
+        {
+          name: "Santa Whiter",
+          id: 510,
+          bitmap48: new Bitmap( new Emoji_48x48_510() ),
+          bitmap96: new Bitmap( new Emoji_96x96_510() )
+        },
+        {
+          name: "Santa White",
+          id: 511,
+          bitmap48: new Bitmap( new Emoji_48x48_511() ),
+          bitmap96: new Bitmap( new Emoji_96x96_511() )
+        },
+        {
+          name: "Santa Tan",
+          id: 512,
+          bitmap48: new Bitmap( new Emoji_48x48_512() ),
+          bitmap96: new Bitmap( new Emoji_96x96_512() )
+        },
+        {
+          name: "Santa Brown",
+          id: 513,
+          bitmap48: new Bitmap( new Emoji_48x48_513() ),
+          bitmap96: new Bitmap( new Emoji_96x96_513() )
+        },
+        {
+          name: "Santa Black",
+          id: 514,
+          bitmap48: new Bitmap( new Emoji_48x48_514() ),
+          bitmap96: new Bitmap( new Emoji_96x96_514() )
+        },
+        {
+          name: "Yellow Boy",
+          id: 778,
+          bitmap48: new Bitmap( new Emoji_48x48_778() ),
+          bitmap96: new Bitmap( new Emoji_96x96_778() )
+        },
+        {
+          name: "Whiter Boy",
+          id: 779,
+          bitmap48: new Bitmap( new Emoji_48x48_779() ),
+          bitmap96: new Bitmap( new Emoji_96x96_779() )
+        },
+        {
+          name: "White Boy",
+          id: 780,
+          bitmap48: new Bitmap( new Emoji_48x48_780() ),
+          bitmap96: new Bitmap( new Emoji_96x96_780() )
+        },
+        {
+          name: "Tan Boy",
+          id: 781,
+          bitmap48: new Bitmap( new Emoji_48x48_781() ),
+          bitmap96: new Bitmap( new Emoji_96x96_781() )
+        },
+        {
+          name: "Brown Boy",
+          id: 782,
+          bitmap48: new Bitmap( new Emoji_48x48_782() ),
+          bitmap96: new Bitmap( new Emoji_96x96_782() )
+        },
+        {
+          name: "Black Boy",
+          id: 783,
+          bitmap48: new Bitmap( new Emoji_48x48_783() ),
+          bitmap96: new Bitmap( new Emoji_96x96_783() )
+        },
+        {
+          name: "Yellow Girl",
+          id: 784,
+          bitmap48: new Bitmap( new Emoji_48x48_784() ),
+          bitmap96: new Bitmap( new Emoji_96x96_784() )
+        },
+        {
+          name: "Whiter Girl",
+          id: 785,
+          bitmap48: new Bitmap( new Emoji_48x48_785() ),
+          bitmap96: new Bitmap( new Emoji_96x96_785() )
+        },
+        {
+          name: "White Girl",
+          id: 786,
+          bitmap48: new Bitmap( new Emoji_48x48_786() ),
+          bitmap96: new Bitmap( new Emoji_96x96_786() )
+        },
+        {
+          name: "Tan Girl",
+          id: 787,
+          bitmap48: new Bitmap( new Emoji_48x48_787() ),
+          bitmap96: new Bitmap( new Emoji_96x96_787() )
+        },
+        {
+          name: "Brown Girl",
+          id: 788,
+          bitmap48: new Bitmap( new Emoji_48x48_788() ),
+          bitmap96: new Bitmap( new Emoji_96x96_788() )
+        },
+        {
+          name: "Black Girl",
+          id: 789,
+          bitmap48: new Bitmap( new Emoji_48x48_789() ),
+          bitmap96: new Bitmap( new Emoji_96x96_789() )
+        },
+        {
+          name: "Yellow Man",
+          id: 790,
+          bitmap48: new Bitmap( new Emoji_48x48_790() ),
+          bitmap96: new Bitmap( new Emoji_96x96_790() )
+        },
+        {
+          name: "Whiter Man",
+          id: 791,
+          bitmap48: new Bitmap( new Emoji_48x48_791() ),
+          bitmap96: new Bitmap( new Emoji_96x96_791() )
+        },
+        {
+          name: "White Man",
+          id: 792,
+          bitmap48: new Bitmap( new Emoji_48x48_792() ),
+          bitmap96: new Bitmap( new Emoji_96x96_792() )
+        },
+        {
+          name: "Tan Man",
+          id: 793,
+          bitmap48: new Bitmap( new Emoji_48x48_793() ),
+          bitmap96: new Bitmap( new Emoji_96x96_793() )
+        },
+        {
+          name: "Brown Man",
+          id: 794,
+          bitmap48: new Bitmap( new Emoji_48x48_794() ),
+          bitmap96: new Bitmap( new Emoji_96x96_794() )
+        },
+        {
+          name: "Black Man",
+          id: 795,
+          bitmap48: new Bitmap( new Emoji_48x48_795() ),
+          bitmap96: new Bitmap( new Emoji_96x96_795() )
+        },
+        {
+          name: "Yellow Woman",
+          id: 796,
+          bitmap48: new Bitmap( new Emoji_48x48_796() ),
+          bitmap96: new Bitmap( new Emoji_96x96_796() )
+        },
+        {
+          name: "Whiter Woman",
+          id: 797,
+          bitmap48: new Bitmap( new Emoji_48x48_797() ),
+          bitmap96: new Bitmap( new Emoji_96x96_797() )
+        },
+        {
+          name: "White Woman",
+          id: 798,
+          bitmap48: new Bitmap( new Emoji_48x48_798() ),
+          bitmap96: new Bitmap( new Emoji_96x96_798() )
+        },
+        {
+          name: "Tan Woman",
+          id: 799,
+          bitmap48: new Bitmap( new Emoji_48x48_799() ),
+          bitmap96: new Bitmap( new Emoji_96x96_799() )
+        },
+        {
+          name: "Brown Woman",
+          id: 800,
+          bitmap48: new Bitmap( new Emoji_48x48_800() ),
+          bitmap96: new Bitmap( new Emoji_96x96_800() )
+        },
+        {
+          name: "Black Woman",
+          id: 801,
+          bitmap48: new Bitmap( new Emoji_48x48_801() ),
+          bitmap96: new Bitmap( new Emoji_96x96_801() )
+        },
+        {
+          name: "Yellow Policeman",
+          id: 820,
+          bitmap48: new Bitmap( new Emoji_48x48_820() ),
+          bitmap96: new Bitmap( new Emoji_96x96_820() )
+        },
+        {
+          name: "Whiter Policeman",
+          id: 821,
+          bitmap48: new Bitmap( new Emoji_48x48_821() ),
+          bitmap96: new Bitmap( new Emoji_96x96_821() )
+        },
+        {
+          name: "White Policeman",
+          id: 822,
+          bitmap48: new Bitmap( new Emoji_48x48_822() ),
+          bitmap96: new Bitmap( new Emoji_96x96_822() )
+        },
+        {
+          name: "Tan Policeman",
+          id: 823,
+          bitmap48: new Bitmap( new Emoji_48x48_823() ),
+          bitmap96: new Bitmap( new Emoji_96x96_823() )
+        },
+        {
+          name: "Brown Policeman",
+          id: 824,
+          bitmap48: new Bitmap( new Emoji_48x48_824() ),
+          bitmap96: new Bitmap( new Emoji_96x96_824() )
+        },
+        {
+          name: "Black Policeman",
+          id: 825,
+          bitmap48: new Bitmap( new Emoji_48x48_825() ),
+          bitmap96: new Bitmap( new Emoji_96x96_825() )
+        },
+        {
+          name: "Bunny Dancers",
+          id: 826,
+          bitmap48: new Bitmap( new Emoji_48x48_826() ),
+          bitmap96: new Bitmap( new Emoji_96x96_826() )
+        },
+        {
+          name: "Yellow Bride",
+          id: 827,
+          bitmap48: new Bitmap( new Emoji_48x48_827() ),
+          bitmap96: new Bitmap( new Emoji_96x96_827() )
+        },
+        {
+          name: "Whiter Bride",
+          id: 828,
+          bitmap48: new Bitmap( new Emoji_48x48_828() ),
+          bitmap96: new Bitmap( new Emoji_96x96_828() )
+        },
+        {
+          name: "White Bride",
+          id: 829,
+          bitmap48: new Bitmap( new Emoji_48x48_829() ),
+          bitmap96: new Bitmap( new Emoji_96x96_829() )
+        },
+        {
+          name: "Tan Bride",
+          id: 830,
+          bitmap48: new Bitmap( new Emoji_48x48_830() ),
+          bitmap96: new Bitmap( new Emoji_96x96_830() )
+        },
+        {
+          name: "Brown Bride",
+          id: 831,
+          bitmap48: new Bitmap( new Emoji_48x48_831() ),
+          bitmap96: new Bitmap( new Emoji_96x96_831() )
+        },
+        {
+          name: "Black Bride",
+          id: 832,
+          bitmap48: new Bitmap( new Emoji_48x48_832() ),
+          bitmap96: new Bitmap( new Emoji_96x96_832() )
+        },
+        {
+          name: "Yellow Boy 2",
+          id: 833,
+          bitmap48: new Bitmap( new Emoji_48x48_833() ),
+          bitmap96: new Bitmap( new Emoji_96x96_833() )
+        },
+        {
+          name: "Whiter Boy 2",
+          id: 834,
+          bitmap48: new Bitmap( new Emoji_48x48_834() ),
+          bitmap96: new Bitmap( new Emoji_96x96_834() )
+        },
+        {
+          name: "White Boy 2",
+          id: 835,
+          bitmap48: new Bitmap( new Emoji_48x48_835() ),
+          bitmap96: new Bitmap( new Emoji_96x96_835() )
+        },
+        {
+          name: "Tan Boy 2",
+          id: 836,
+          bitmap48: new Bitmap( new Emoji_48x48_836() ),
+          bitmap96: new Bitmap( new Emoji_96x96_836() )
+        },
+        {
+          name: "Brown Boy 2",
+          id: 837,
+          bitmap48: new Bitmap( new Emoji_48x48_837() ),
+          bitmap96: new Bitmap( new Emoji_96x96_837() )
+        },
+        {
+          name: "Black Boy 2",
+          id: 838,
+          bitmap48: new Bitmap( new Emoji_48x48_838() ),
+          bitmap96: new Bitmap( new Emoji_96x96_838() )
+        },
+        {
+          name: "Yellow Man w/Skullcap",
+          id: 839,
+          bitmap48: new Bitmap( new Emoji_48x48_839() ),
+          bitmap96: new Bitmap( new Emoji_96x96_839() )
+        },
+        {
+          name: "Whiter Man w/Skullcap",
+          id: 840,
+          bitmap48: new Bitmap( new Emoji_48x48_840() ),
+          bitmap96: new Bitmap( new Emoji_96x96_840() )
+        },
+        {
+          name: "White Man w/Skullcap",
+          id: 841,
+          bitmap48: new Bitmap( new Emoji_48x48_841() ),
+          bitmap96: new Bitmap( new Emoji_96x96_841() )
+        },
+        {
+          name: "Tan Man w/Skullcap",
+          id: 842,
+          bitmap48: new Bitmap( new Emoji_48x48_842() ),
+          bitmap96: new Bitmap( new Emoji_96x96_842() )
+        },
+        {
+          name: "Brown Man w/Skullcap",
+          id: 843,
+          bitmap48: new Bitmap( new Emoji_48x48_843() ),
+          bitmap96: new Bitmap( new Emoji_96x96_843() )
+        },
+        {
+          name: "Black Man w/Skullcap",
+          id: 844,
+          bitmap48: new Bitmap( new Emoji_48x48_844() ),
+          bitmap96: new Bitmap( new Emoji_96x96_844() )
+        },
+        {
+          name: "Yellow Man w/Turban",
+          id: 845,
+          bitmap48: new Bitmap( new Emoji_48x48_845() ),
+          bitmap96: new Bitmap( new Emoji_96x96_845() )
+        },
+        {
+          name: "Whiter Man w/Turban",
+          id: 846,
+          bitmap48: new Bitmap( new Emoji_48x48_846() ),
+          bitmap96: new Bitmap( new Emoji_96x96_846() )
+        },
+        {
+          name: "White Man w/Turban",
+          id: 847,
+          bitmap48: new Bitmap( new Emoji_48x48_847() ),
+          bitmap96: new Bitmap( new Emoji_96x96_847() )
+        },
+        {
+          name: "Tan Man w/Turban",
+          id: 848,
+          bitmap48: new Bitmap( new Emoji_48x48_848() ),
+          bitmap96: new Bitmap( new Emoji_96x96_848() )
+        },
+        {
+          name: "Brown Man w/Turban",
+          id: 849,
+          bitmap48: new Bitmap( new Emoji_48x48_849() ),
+          bitmap96: new Bitmap( new Emoji_96x96_849() )
+        },
+        {
+          name: "Black Man w/Turban",
+          id: 850,
+          bitmap48: new Bitmap( new Emoji_48x48_850() ),
+          bitmap96: new Bitmap( new Emoji_96x96_850() )
+        },
+        {
+          name: "Yellow Old Man",
+          id: 851,
+          bitmap48: new Bitmap( new Emoji_48x48_851() ),
+          bitmap96: new Bitmap( new Emoji_96x96_851() )
+        },
+        {
+          name: "Whiter Old Man",
+          id: 852,
+          bitmap48: new Bitmap( new Emoji_48x48_852() ),
+          bitmap96: new Bitmap( new Emoji_96x96_852() )
+        },
+        {
+          name: "White Old Man",
+          id: 853,
+          bitmap48: new Bitmap( new Emoji_48x48_853() ),
+          bitmap96: new Bitmap( new Emoji_96x96_853() )
+        },
+        {
+          name: "Tan Old Man",
+          id: 854,
+          bitmap48: new Bitmap( new Emoji_48x48_854() ),
+          bitmap96: new Bitmap( new Emoji_96x96_854() )
+        },
+        {
+          name: "Brown Old Man",
+          id: 855,
+          bitmap48: new Bitmap( new Emoji_48x48_855() ),
+          bitmap96: new Bitmap( new Emoji_96x96_855() )
+        },
+        {
+          name: "Black Old Man",
+          id: 856,
+          bitmap48: new Bitmap( new Emoji_48x48_856() ),
+          bitmap96: new Bitmap( new Emoji_96x96_856() )
+        },
+        {
+          name: "Yellow Old Woman",
+          id: 857,
+          bitmap48: new Bitmap( new Emoji_48x48_857() ),
+          bitmap96: new Bitmap( new Emoji_96x96_857() )
+        },
+        {
+          name: "Whiter Old Woman",
+          id: 858,
+          bitmap48: new Bitmap( new Emoji_48x48_858() ),
+          bitmap96: new Bitmap( new Emoji_96x96_858() )
+        },
+        {
+          name: "White Old Woman",
+          id: 859,
+          bitmap48: new Bitmap( new Emoji_48x48_859() ),
+          bitmap96: new Bitmap( new Emoji_96x96_859() )
+        },
+        {
+          name: "Tan Old Woman",
+          id: 860,
+          bitmap48: new Bitmap( new Emoji_48x48_860() ),
+          bitmap96: new Bitmap( new Emoji_96x96_860() )
+        },
+        {
+          name: "Brown Old Woman",
+          id: 861,
+          bitmap48: new Bitmap( new Emoji_48x48_861() ),
+          bitmap96: new Bitmap( new Emoji_96x96_861() )
+        },
+        {
+          name: "Black Old Woman",
+          id: 862,
+          bitmap48: new Bitmap( new Emoji_48x48_862() ),
+          bitmap96: new Bitmap( new Emoji_96x96_862() )
+        },
+        {
+          name: "Yellow Baby",
+          id: 863,
+          bitmap48: new Bitmap( new Emoji_48x48_863() ),
+          bitmap96: new Bitmap( new Emoji_96x96_863() )
+        },
+        {
+          name: "Whiter Baby",
+          id: 864,
+          bitmap48: new Bitmap( new Emoji_48x48_864() ),
+          bitmap96: new Bitmap( new Emoji_96x96_864() )
+        },
+        {
+          name: "White Baby",
+          id: 865,
+          bitmap48: new Bitmap( new Emoji_48x48_865() ),
+          bitmap96: new Bitmap( new Emoji_96x96_865() )
+        },
+        {
+          name: "Tan Baby",
+          id: 866,
+          bitmap48: new Bitmap( new Emoji_48x48_866() ),
+          bitmap96: new Bitmap( new Emoji_96x96_866() )
+        },
+        {
+          name: "Brown Baby",
+          id: 867,
+          bitmap48: new Bitmap( new Emoji_48x48_867() ),
+          bitmap96: new Bitmap( new Emoji_96x96_867() )
+        },
+        {
+          name: "Black Baby",
+          id: 868,
+          bitmap48: new Bitmap( new Emoji_48x48_868() ),
+          bitmap96: new Bitmap( new Emoji_96x96_868() )
+        },
+        {
+          name: "Construction Worker Yellow",
+          id: 869,
+          bitmap48: new Bitmap( new Emoji_48x48_869() ),
+          bitmap96: new Bitmap( new Emoji_96x96_869() )
+        },
+        {
+          name: "Construction Worker Whiter",
+          id: 870,
+          bitmap48: new Bitmap( new Emoji_48x48_870() ),
+          bitmap96: new Bitmap( new Emoji_96x96_870() )
+        },
+        {
+          name: "Construction Worker White",
+          id: 871,
+          bitmap48: new Bitmap( new Emoji_48x48_871() ),
+          bitmap96: new Bitmap( new Emoji_96x96_871() )
+        },
+        {
+          name: "Construction Worker Tan",
+          id: 872,
+          bitmap48: new Bitmap( new Emoji_48x48_872() ),
+          bitmap96: new Bitmap( new Emoji_96x96_872() )
+        },
+        {
+          name: "Construction Worker Brown",
+          id: 873,
+          bitmap48: new Bitmap( new Emoji_48x48_873() ),
+          bitmap96: new Bitmap( new Emoji_96x96_873() )
+        },
+        {
+          name: "Construction Worker Black",
+          id: 874,
+          bitmap48: new Bitmap( new Emoji_48x48_874() ),
+          bitmap96: new Bitmap( new Emoji_96x96_874() )
+        },
+        {
+          name: "Princess Yellow",
+          id: 875,
+          bitmap48: new Bitmap( new Emoji_48x48_875() ),
+          bitmap96: new Bitmap( new Emoji_96x96_875() )
+        },
+        {
+          name: "Princess Whiter",
+          id: 876,
+          bitmap48: new Bitmap( new Emoji_48x48_876() ),
+          bitmap96: new Bitmap( new Emoji_96x96_876() )
+        },
+        {
+          name: "Princess White",
+          id: 877,
+          bitmap48: new Bitmap( new Emoji_48x48_877() ),
+          bitmap96: new Bitmap( new Emoji_96x96_877() )
+        },
+        {
+          name: "Princess Tan",
+          id: 878,
+          bitmap48: new Bitmap( new Emoji_48x48_878() ),
+          bitmap96: new Bitmap( new Emoji_96x96_878() )
+        },
+        {
+          name: "Princess Brown",
+          id: 879,
+          bitmap48: new Bitmap( new Emoji_48x48_879() ),
+          bitmap96: new Bitmap( new Emoji_96x96_879() )
+        },
+        {
+          name: "Princess Black",
+          id: 880,
+          bitmap48: new Bitmap( new Emoji_48x48_880() ),
+          bitmap96: new Bitmap( new Emoji_96x96_880() )
+        },
+      ];
